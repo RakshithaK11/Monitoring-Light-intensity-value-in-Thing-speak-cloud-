@@ -155,6 +155,8 @@ void loop() {
 <img width="1708" height="765" alt="image" src="https://github.com/user-attachments/assets/717733ee-8c9f-42c0-a060-e937880b1c65" />
 
 # OUTPUT
+<img width="1636" height="907" alt="image" src="https://github.com/user-attachments/assets/dda9acd0-de24-4196-a1b5-8d481d6cd6d7" />
+
 <img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/e7cbe0bc-d799-4626-96b0-90b51d18b4fa" />
 
 # RESULT:
